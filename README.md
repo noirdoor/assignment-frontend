@@ -4,7 +4,7 @@
 
 This will provide you with a better understanding of [Noirdoor](https://noirdoor.com) and affords us some common ground to discuss candidates.
 
-The assignment itself is open-ended, with few actual requirements. We want you to use this occasion to showcase your passions, skills and experience.
+The assignment itself is open-ended, with few actual requirements. We want you to use this occasion to showcase your passions, skills, and experience.
 
 ## Goal
 
@@ -17,7 +17,7 @@ These are just a few of the things you will use during the project:
 **Tool** | **Purpose**
 -------- | -----------
 [GitHub](https://github.com/) | Source code storage and version control
-[React](https://reactjs.org/) | Framework for user interfaces components
+[React](https://reactjs.org/) | Framework for user interface components
 [Wavesurfer](https://wavesurfer-js.org/) or similar | Music player in the browser
 [hapi](https://hapijs.com/) | Node.js framework for creating web servers
 [Inert](https://github.com/hapijs/inert) and/or [Vision](https://github.com/hapijs/vision) | Render pages on the server
